@@ -2,3 +2,5 @@
 
 ## Sistema de cadastros de funcionários. :floppy_disk: 
 
+### Projeto Final da matéria de Lógica de Programação com a linguagem C. ###
+
